@@ -1,2 +1,2 @@
 # CUDA-Training
-CUDA training test code
+CUDA training test code.
